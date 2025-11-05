@@ -49,9 +49,9 @@ I,m going to insert resume soon......
 
 ---
 
-## ⚡ Fun fact
-My code once made the computer laugh... I accidentally left a 'ha-ha' comment in the middle of debugging. 😄
+## ⚡ Words of Lord Krishna
 
+"Let the ages pass, let the stars fade yet you shall ebdure, so the world may see what becomes of warrior without peace."
 ---
 
 ### Connect with me
