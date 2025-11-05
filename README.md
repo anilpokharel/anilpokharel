@@ -5,7 +5,7 @@
 
 
 ## 🔭 About Me
-- 🔭 I’m currently working on **NoteBook**.
+- 🔭 I’m currently working on **--------**.
 - 🌱 I’m learning **React**, **Node.js**, **CyberSecurity**, and more.
 - 👯 I’m looking to collaborate on **E-commerce** projects.
 - 💬 Ask me about **React**, **Node.js**, **CyberSeecurity**.
@@ -17,7 +17,7 @@
 
 ## 📄 Resume
 
-
+I,m going to insert resume soon......
 ---
 
 ## 🛠️ Languages & Tools
@@ -28,12 +28,9 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
   <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white"/>
-  <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
   <img alt="C/C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=flat-square&logo=mongodb&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
 </p>
