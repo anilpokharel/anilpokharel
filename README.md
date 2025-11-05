@@ -1,6 +1,7 @@
 # Hi there 👋, Anil Pokhrel
 
-![Typing SVG](https://readmetypingsvg.herokuapp.comfont=Rubik+Mono+One&size=22&pause=1000&color=000000&background=FFFFFF00&lines=Hi+%F0%9F%91%8B+I'm+Anil+Pokhrel;A+passionate+Web+Developer+from+Nepal)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=22&pause=1000&color=000000&background=FFFFFF00&lines=Hi+I%27m+Anil+Pokhrel;Starter+at+React+JS+From+Nepal)
+
 
 ## 🔭 About Me
 - 🔭 I’m currently working on **NoteBook**.
